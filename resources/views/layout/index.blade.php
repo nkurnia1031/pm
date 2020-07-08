@@ -2,10 +2,11 @@
 @section('isi2')
 <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
     <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
-        <a class="navbar-brand brand-logo" href="index.html">
-            <img src="{{ asset('images/logo.svg') }}" alt="logo" /> </a>
-        <a class="navbar-brand brand-logo-mini" href="index.html">
-            <img src="{{ asset('images/logo-mini.svg') }}" alt="logo" /> </a>
+        <a style="zoom:75%" class="navbar-brand brand-logo" href="Home">
+            SMP IT Plus Bazma Brilliant </a>
+        <a style="zoom:75%" class="navbar-brand brand-logo-mini" href="Home">
+            SMP IT Plus Bazma Brilliant
+            </a>
     </div>
     <div class="navbar-menu-wrapper d-flex align-items-center">
         <form class="mr-auto search-form d-none d-md-block" action="Menu-Set">
